@@ -1,0 +1,15 @@
+2026-02-01 20:31:52,653 [INFO] HTTP Request: POST https://api.minimaxi.chat/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 20:31:52,653 [INFO] User: 안녕? 너는 어떤 모델이니?
+2026-02-01 20:31:52,653 [INFO] AI: 안녕하세요! 저는 현관 거울 속의 루틴 관리자입니다. 짧고 명확한 대화를 통해 여러분의 일상을 돕는 역할을 합니다.
+2026-02-01 20:31:52,653 [INFO] Usage: Prompt 58, Completion 32, Total 90
+2026-02-01 20:31:52,653 [INFO] Latency: 3141.72ms
+2026-02-01 20:31:56,985 [INFO] HTTP Request: POST https://api.minimaxi.chat/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 20:31:56,985 [INFO] User: 내 이름을 '김철수'라고 기억해줘.
+2026-02-01 20:31:56,985 [INFO] AI: 물론입니다, 김철수님! 필요하시면 언제든지 불러주세요.
+2026-02-01 20:31:56,995 [INFO] Usage: Prompt 119, Completion 16, Total 135
+2026-02-01 20:31:56,995 [INFO] Latency: 1334.00ms
+2026-02-01 20:32:13,352 [INFO] HTTP Request: POST https://api.minimaxi.chat/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 20:32:13,353 [INFO] User: 방금 내가 내 이름을 뭐라고 했는지 알려줄래?
+2026-02-01 20:32:13,353 [INFO] AI: 김철수님이라고 하셨습니다.
+2026-02-01 20:32:13,353 [INFO] Usage: Prompt 166, Completion 9, Total 175
+2026-02-01 20:32:13,354 [INFO] Latency: 1622.12ms
